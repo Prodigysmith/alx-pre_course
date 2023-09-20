@@ -1,4 +1,2 @@
 My first readme
-^C
-pwd
-ls
+README update from github.com
